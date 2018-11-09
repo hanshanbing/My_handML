@@ -1,1 +1,1 @@
-记录关于Hands-on Machine learning with SK-learn & TensorFlow的学习
+Hands-on Machine learning with SK-learn & TensorFlow
